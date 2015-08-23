@@ -14,4 +14,4 @@ I used the following files from the data set in the project:
 7. subject_train.txt - lists the individual subjects for the training data records
 8. subject_test.txt - lists the individual subjects for the test data records
 
-
+ 
