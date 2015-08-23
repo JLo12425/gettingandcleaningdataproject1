@@ -1,4 +1,4 @@
-# Install the libraries the script will use. Assumes you already have the proper packages installed
+# Load the libraries the script will use. Assumes you already have the proper packages installed
 library(plyr)
 library(dplyr)
 library(reshape2)
